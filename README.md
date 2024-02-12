@@ -8,3 +8,9 @@ o/p- "olleh woh era uoy"
 2. Swap two numbers without using third variable
 i/p= a=10, b=15
 o/p- a=15, b=10
+
+3. program to check if the number is even or odd
+i/p= 10
+o/p- Number is even
+i/p= 13
+o/p- Number is Odd
