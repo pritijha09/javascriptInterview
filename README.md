@@ -14,3 +14,9 @@ i/p= 10
 o/p- Number is even
 i/p= 13
 o/p- Number is Odd
+
+4. How to check weather a string is a palindrome or not
+i/p - radar
+o/p - given string is Palindrome
+i/p - Dev
+o/p- given string is not Palindrome
