@@ -20,3 +20,6 @@ i/p - radar
 o/p - given string is Palindrome
 i/p - Dev
 o/p- given string is not Palindrome
+
+5. JavaScript Program to generate one-time password (OTP)
+o/p - 5271 any four digit number
