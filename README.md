@@ -27,3 +27,7 @@ o/p - 5271 any four digit number
 6. Sum of two numbers
 i/p - 10,5
 o/p - 15
+
+7. Multiply of two numbers
+i/p - 10,5
+o/p - 50
