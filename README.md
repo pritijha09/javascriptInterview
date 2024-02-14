@@ -23,3 +23,7 @@ o/p- given string is not Palindrome
 
 5. JavaScript Program to generate one-time password (OTP)
 o/p - 5271 any four digit number
+
+6. Sum of two numbers
+i/p - 10,5
+o/p - 15
