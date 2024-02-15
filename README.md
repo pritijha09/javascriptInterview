@@ -31,3 +31,7 @@ o/p - 15
 7. Multiply of two numbers
 i/p - 10,5
 o/p - 50
+
+8. JavaScript Program to Check if a number is Positive, Negative, or Zero
+i/p - 5
+O/p- The Number is positive
