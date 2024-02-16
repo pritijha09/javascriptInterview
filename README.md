@@ -35,3 +35,9 @@ o/p - 50
 8. JavaScript Program to Check if a number is Positive, Negative, or Zero
 i/p - 5
 O/p- The Number is positive
+
+9. How to get tomorrow’s date in a string format in JavaScript ?
+10. Check if an element is present in an array using JavaScript
+     approch 1 - using includes - Previous video
+     approach 2 - Using indexOf
+     approch 3 - Using for loop
