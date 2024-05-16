@@ -1,4 +1,4 @@
-//short array without the use of a short function
+//sort array without the use of a sort function
 //input :-var a= [1,5,2,3,4,6,7,8];
 //output :-var a=[1,2,3,4,5,6,7,8];
 

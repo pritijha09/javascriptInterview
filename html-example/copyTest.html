@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <input type="text" value="Hello Dev codinggigs" id="myInput">
+        <button onclick="CopyMe()">Copy Me</button>
+    </div>
+</body>
+<script>
+   function CopyMe(){
+    var copyText = document.getElementById("myInput");
+    //select the text field
+    copyText.select();
+    copyText.setSelectionRange(0, 999999); // this is for mobile
+    //copy
+    navigator.clipboard.writeText(copyText.value);
+    alert(`Copied the text - ${copyText.value}`)
+   }
+</script>
+</html>
